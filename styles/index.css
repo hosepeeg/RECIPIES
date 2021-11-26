@@ -1,0 +1,21 @@
+.stooges{
+    width: 400px;
+    height: 400px;
+    object-fit: fill;
+}
+
+h1{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+.grid{
+    display: block;
+    background-color: white;
+}
