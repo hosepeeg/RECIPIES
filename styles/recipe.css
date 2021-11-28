@@ -54,7 +54,7 @@ p{
 
 .bot{
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 15px;
     background-color: black;
 }
 
@@ -73,8 +73,7 @@ li{
 .home{
     padding: 15px;
     display: block;
-    margin-left: 20px;
-    margin-top: 30px;
+    margin-left: 15px;
 }
 
 html{
